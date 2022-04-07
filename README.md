@@ -1,0 +1,2 @@
+# YouCanReadIt
+By splitting up long words visibly, this extension helps people with their reading!All you need to do is 1. add to Chrome 2. Click on any text on the internet, and the words will split into black and very. This is the first version and has many problems, so if something goes wrong, refresh the page. I will be thrilled to see this help kids and adults reading, and I hope the next version will come soon with lots of fixes.
