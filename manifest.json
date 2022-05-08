@@ -1,9 +1,8 @@
 {
-  "name": "YOU CAN READ IT NO MATTER HOW DYSLEXIC YOUR BRAIN IS DYSLEXIA WON'T STOP YOU",
-  "description": "By splitting up long words visibly, this extension helps people with their reading!All you need to do is 1. add to Chrome 2. Click on any text!",
-  "version": "0.1",
+  "name": "YOU CAN READ IT Dyslexia won't stop you!",
+  "description": "By splitting up long words visibly, this extension helps people with their reading!",
+  "version": "0.1.1.1",
   "manifest_version": 3,
-  
   "content_scripts": [
     {
       "matches": [
@@ -16,7 +15,6 @@
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["storage", "activeTab", "scripting"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
